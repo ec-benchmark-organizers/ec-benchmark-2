@@ -1,13 +1,7 @@
 # ec-benchmark-2
 ## Datasets
-The datasets are available at XXX.
+We will link to the datasets here.
 ## Preparing your results
-Please prepare the following information for your submission
- - item 1
- - item 2
- - ...
-Please zip these files and submit them by XXX.
-Here is an example submission.
+We will describe how you should prepare your resulte here and provide an example submission.
 ## Entering the benchmark & submitting your results
-To enter the benchmark, please XXX.
-To submit your results submit the .zip file to XXX.
+Here we will describe how you can officially enter the benchmark and how you should submit your results.
