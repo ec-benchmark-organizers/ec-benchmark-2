@@ -1,4 +1,4 @@
-# ec-benchmark-2
+# A second benchmarking exercise on estimating extreme environmental conditions
 ## Datasets
 We will link to the datasets here.
 ## Preparing your results
