@@ -49,7 +49,7 @@ RV_boot=sort(RV_boot);
 % create array of return values and 95% confidence bounds
 return_values=zeros(3,3);
 for i=1:3
-    return_values(i,:)=[RV(1), RV_boot(round(trials*0.025),1), RV_boot(round(trials*0.975),1)];
+    return_values(i,:)=[RV(i), RV_boot(round(trials*0.025),i), RV_boot(round(trials*0.975,i),i)];
 end
 
 % calculate empirical exceedance probabilities
