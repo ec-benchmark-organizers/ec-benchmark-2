@@ -20,15 +20,16 @@ For Exercise 1, the files for each site should be named "Ex1_SiteX_ReturnValues_
 
 The return value files should have the following content, (where "CI 2.5%" and "CI 97.5%" are the 2.5% and 97.5% confidence interval for the return value):
 
-Return Period [years],Return Value [m],CI 2.5% [m],CI 97.5% [m]\n
-5,xxx,xxx,xxx\n
-50,xxx,xxx,xxx\n
+Return Period [years],Return Value [m],CI 2.5% [m],CI 97.5% [m]\
+5,xxx,xxx,xxx\
+50,xxx,xxx,xxx\
 500,xxx,xxx,xxx
 
 The annual distribution files should have the following content:
-Exceedance Prob,Quantile [m],CI 2.5% [m],CI 97.5% [m]
-1.00000,xxx,xxx,xxx
-0.93260,xxx,xxx,xxx
+
+Exceedance Prob,Quantile [m],CI 2.5% [m],CI 97.5% [m]\
+1.00000,xxx,xxx,xxx\
+0.93260,xxx,xxx,xxx\
 0.86975,xxx,xxx,xxx
 ...
 
