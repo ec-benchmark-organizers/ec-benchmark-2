@@ -30,7 +30,7 @@ The annual distribution files should have the following content:
 Exceedance Prob,Quantile [m],CI 2.5% [m],CI 97.5% [m]\
 1.00000,xxx,xxx,xxx\
 0.93260,xxx,xxx,xxx\
-0.86975,xxx,xxx,xxx
+0.86975,xxx,xxx,xxx\
 ...
 
 For Exercise 2, the files for each site should be named "Ex1_SiteX_Quantiles_YourName.csv" and "Ex1_SiteX_F25Dist_YourName.csv"
@@ -38,9 +38,8 @@ For Exercise 2, the files for each site should be named "Ex1_SiteX_Quantiles_You
 Both files should follow this format:
 
 Exceedance Prob,Quantile [m],CI 2.5% [m],CI 97.5% [m]\
-1.00000,xxx,xxx,xxx\
-0.93260,xxx,xxx,xxx\
-0.86975,xxx,xxx,xxx
+xxx,xxx,xxx,xxx\
+...
 
 For the "Quantiles" file, please use exceedance probabilities of (1-1/N)^(1/25) for N = 5, 50 and 500.\
 For the "F25Dist" file, please use exceedance probabilities of (1-1/N)^(1/25) for N at 100 equally spaced logarithmic increments, between 1 and 1000.
