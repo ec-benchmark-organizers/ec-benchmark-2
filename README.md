@@ -47,5 +47,8 @@ For the "F25Dist" file, please use exceedance probabilities of (1-1/N)^(1/25) fo
 ## Example analysis
 MATLAB code for the baseline analysis, described in the OMAE2021 paper, is provided as an example [here](https://github.com/ec-benchmark-organizers/ec-benchmark-2/tree/main/organizers-code/baseline_annual_maxima)
 
+## Timeline
+Please provide results by May 31, 2022
+
 ## Questions
 Please feel free to [open an issue](https://github.com/ec-benchmark-organizers/ec-benchmark-2/issues/new) if you have a questions and we will answer it publicly in the same issue. Alternatively, you can contact us by email: <ecbenchmark@gmail.com>
